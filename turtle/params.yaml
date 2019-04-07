@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 255
+background_r: 0
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_chris_a320m_s2h__32939: 'http://chris-A320M-S2H:32939/'}
+rosversion: '1.12.14
+
+  '
+run_id: 51cea09e-5943-11e9-86ef-e8de2739c945
